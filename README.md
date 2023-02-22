@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+A Responsive Todo List Application
+<img width="1440" alt="Screenshot 2023-02-22 at 6 18 08 PM" src="https://user-images.githubusercontent.com/83592733/220628702-32cc4027-a745-42e9-b0d9-89a20e0fb414.png">
+<img width="1440" alt="Screenshot 2023-02-22 at 6 25 26 PM" src="https://user-images.githubusercontent.com/83592733/220628730-ffab67fd-c8cc-4c54-bee6-a06839187741.png">
+<img width="1440" alt="Screenshot 2023-02-22 at 6 26 05 PM" src="https://user-images.githubusercontent.com/83592733/220628746-e4cf34a6-13b4-4221-83ef-fb64f6531e69.png">
+
+#Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
